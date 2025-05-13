@@ -19,13 +19,12 @@ classifiers = [
 dependencies = [
     "mcp[cli]>=1.3.0",
     "openai>=1.78.1",
+    "pydantic>=2.11.4",
     "typer>=0.15.3",
 ]
 
 [project.urls]
-Homepage = "https://wh1isper.github.io/mcp-openai-image-generation/"
-Repository = "https://github.com/wh1isper/mcp-openai-image-generation"
-Documentation = "https://wh1isper.github.io/mcp-openai-image-generation/"
+Repository = "https://github.com/ai-zerolab/mcp-openai-image-generation"
 
 [dependency-groups]
 dev = [

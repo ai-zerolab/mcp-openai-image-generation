@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ## Report Bugs
 
-Report bugs at https://github.com/wh1isper/mcp-openai-image-generation/issues
+Report bugs at https://github.com/ai-zerolab/mcp-openai-image-generation/issues
 
 If you are reporting a bug, please include:
 
@@ -33,7 +33,7 @@ mcp-openai-image-generation could always use more documentation, whether as part
 
 ## Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/wh1isper/mcp-openai-image-generation/issues.
+The best way to send feedback is to file an issue at https://github.com/ai-zerolab/mcp-openai-image-generation/issues.
 
 If you are proposing a new feature:
 
