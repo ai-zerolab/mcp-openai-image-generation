@@ -15,8 +15,7 @@ DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-image-1")
 
 
 @mcp.tool(
-    description="Generate an image with OpenAI model, save or display it. "
-    "For saving, use the `output_dir` parameter."
+    description="Generate an image with OpenAI model, save or display it. For saving, use the `output_dir` parameter."
 )
 def generate_image(
     prompt: Annotated[str, Field(description="A text description of the desired image(s).")],
